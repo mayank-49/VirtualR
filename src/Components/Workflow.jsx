@@ -2,7 +2,7 @@ import React from 'react';
 import { CheckCircle2 } from 'lucide-react';
 import codeImg from "../assets/code.jpg"
 import {checklistItems} from "../constants/index"
-const workflow = () => {
+const Workflow = () => {
   return (
     <div className='mt-20'>
         <h2 className='text-3xl sm:text-5xl lg:text-6xl text-center mt-6 tracking-wide'>Accelerate your 
@@ -30,4 +30,4 @@ const workflow = () => {
   )
 }
 
-export default workflow
+export default Workflow
