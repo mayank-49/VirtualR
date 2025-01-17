@@ -3,7 +3,7 @@ import './App.css';
 import Navbar from "./Components/Navbar"
 import HeroSection from './Components/HeroSection';
 import FeatureSection from './Components/FeatureSection';
-import Workflow from './Components/workflow';
+import Workflow from './Components/Workflow';
 import Pricing from './Components/Pricing';
 import Testimonials from './Components/Testimonials';
 import Footer from './Components/Footer';
