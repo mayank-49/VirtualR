@@ -7,4 +7,5 @@
 :root{
   font-family: "Poppins", san-serif;
   color-scheme: dark;
+  scrool-behaviour: smooth;
 }
